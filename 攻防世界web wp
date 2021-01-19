@@ -1,0 +1,22 @@
+## 攻防世界
+
+呃…BUU干不动了 来点新活儿
+
+从高手区开始更新
+
+## web
+
+### baby web
+
+没啥太多提示，burp抓个包 尝试个地址index.php访问 提示flag is hidden
+
+抬头一看在消息头出现了flag
+
+### Training-WWW-Robots
+
+不明白为什么高手区出新手区的题目
+
+直接访问robots.txt 发现一个地址 访问一下得到flag
+
+### php rce
+
